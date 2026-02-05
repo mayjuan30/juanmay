@@ -1,0 +1,14 @@
+C:\CP\TareaPizarron\bin\Debug\net10.0\TareaPizarron.exe
+C:\CP\TareaPizarron\bin\Debug\net10.0\TareaPizarron.deps.json
+C:\CP\TareaPizarron\bin\Debug\net10.0\TareaPizarron.runtimeconfig.json
+C:\CP\TareaPizarron\bin\Debug\net10.0\TareaPizarron.dll
+C:\CP\TareaPizarron\bin\Debug\net10.0\TareaPizarron.pdb
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.GeneratedMSBuildEditorConfig.editorconfig
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.AssemblyInfoInputs.cache
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.AssemblyInfo.cs
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.csproj.CoreCompileInputs.cache
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.dll
+C:\CP\TareaPizarron\obj\Debug\net10.0\refint\TareaPizarron.dll
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.pdb
+C:\CP\TareaPizarron\obj\Debug\net10.0\TareaPizarron.genruntimeconfig.cache
+C:\CP\TareaPizarron\obj\Debug\net10.0\ref\TareaPizarron.dll
